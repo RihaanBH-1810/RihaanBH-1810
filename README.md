@@ -1,4 +1,4 @@
-<div align="center>
+<div id="header" align="center">
   <img src="assets/backdrop.gif" alt="hehe"/>
 </div>
 
