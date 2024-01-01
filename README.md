@@ -2,7 +2,7 @@
   <img src="assets/backdrop.gif" alt="hehe"/>
 </div>
 
-<div id="user-content-toc">
+<div id="user-content-toc" align="center">
   <ul align="center">
     <summary><h1 style="display: inline-block">Hi 👋, I'm Rihaan B H</h1></summary>
   </ul>
