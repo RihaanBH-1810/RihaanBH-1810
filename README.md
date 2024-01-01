@@ -1,6 +1,6 @@
 <div align="center>
   <img src="assets/backdrop.gif"/>
-<div>
+</div>
 
 ### Hi there 👋
 
