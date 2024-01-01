@@ -1,3 +1,7 @@
+<div align="center>
+  <img src="assets/backdrop.gif"/>
+<div>
+
 ### Hi there 👋
 
 <!--
