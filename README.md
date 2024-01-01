@@ -2,12 +2,12 @@
   <img src="assets/backdrop.gif" alt="hehe"/>
 </div>
 
-<div align="center">
-### Hi there 👋 , I'm Rihaan B H
-</div>
+
+#### Hi there 👋 , I'm Rihaan B H
 
 # ✨ About Me:
-💫 At present working on Web Dev<br>🎓 Student at Amrita Vishwa Vidyapeetham<br>💡 Member at amFOSS
+Student @Amrita Vishwa Vidyapeetham <br> Member @amFOSS <br> Currently learning Web Dev
+
 
 
 
