@@ -1,9 +1,8 @@
 <div align="center>
-  <img src="assets/backdrop.gif"/>
+  <img src="assets/backdrop.gif" alt="hehe"/>
 </div>
 
 ### Hi there 👋
-
 <!--
 **RihaanBH-1810/RihaanBH-1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
