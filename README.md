@@ -3,7 +3,7 @@
 </div>
 
 
-#### Hi there 👋 , I'm Rihaan B H
+# Hi there 👋 , I'm Rihaan B H
 
 # ✨ About Me:
 Student @Amrita Vishwa Vidyapeetham <br> Member @amFOSS <br> Currently learning Web Dev
