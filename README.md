@@ -9,7 +9,7 @@
 </div>
 
 ## ✨ About Me:
-🎓 Robotics and AI undergrad @Amrita Vishwa Vidyapeetham -Amritapuri Campus <br>💻 Member @amFOSS <br>🌐 Currently learning Web Dev
+<b>🎓 Robotics and AI undergrad @Amrita Vishwa Vidyapeetham -Amritapuri Campus <br>💻 Member @amFOSS <br>🌐 Currently learning Web Dev</b>
 
 ## ☎️ My Socials:
 <p align="center">
