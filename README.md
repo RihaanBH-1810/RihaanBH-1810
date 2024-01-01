@@ -2,12 +2,16 @@
   <img src="assets/backdrop.gif" alt="hehe"/>
 </div>
 
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rihaan B H</h1></summary>
+  </ul>
+</div>
 
-# Hi there 👋 , I'm Rihaan B H
+## ✨ About Me:
+🎓 Student @Amrita Vishwa Vidyapeetham -Amritapuri Campus <br>💻 Member @amFOSS <br>🌐 Currently learning Web Dev
 
-# ✨ About Me:
-Student @Amrita Vishwa Vidyapeetham <br> Member @amFOSS <br> Currently learning Web Dev
-
+## ☎️ My Socials:
 
 
 
