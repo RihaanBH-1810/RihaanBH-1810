@@ -9,7 +9,7 @@
 </div>
 
 ## ✨ About Me:
-<b>🎓 Robotics and AI undergrad @Amrita Vishwa Vidyapeetham -Amritapuri Campus <br>💻 Member @amFOSS <br>:iphone: Currently learning App Dev</b>
+<b>🎓 Robotics and AI undergrad @Amrita Vishwa Vidyapeetham -Amritapuri Campus <br>💻 Member @amFOSS <br>🤖: Currently learning ML and DL</b>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rihaanbh-1810" alt="rihaanbh-1810" /></a> </p>
 
